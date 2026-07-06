@@ -1,0 +1,6 @@
+{
+  "name": "JT Tours & Travels - Monthly Account Manager",
+  "description": "মাসিক হিসাব-নিকাশ ও ড্যাশবোর্ড - Manage monthly accounts with Gemini AI autopilot parsing Bengali transaction descriptions, dynamic filters, and professional summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
